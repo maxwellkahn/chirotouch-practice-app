@@ -21,8 +21,7 @@ class PatientIndex extends LitElement {
   }
 
   render() {
-    return html`<p>Patient index</p>
-      <p></p>`;
+    return html` <p>Patient Index</p> `;
   }
 }
 
